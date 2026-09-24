@@ -1,0 +1,11 @@
+{
+  "name": "projeto05-media",
+  "version": "1.0.0",
+  "description": "Projeto 05 - Desenvolvimento Web III",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
